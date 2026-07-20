@@ -20,3 +20,4 @@ A software engineer focused on backend development.
 - [`https://github.com/floatpane/matcha/issues/1237`](https://github.com/floatpane/matcha/issues/1237)
 - [`https://github.com/floatpane/matcha/issues/1404`](https://github.com/floatpane/matcha/issues/1404)
 - [`https://github.com/floatpane/matcha/pull/1227`](https://github.com/floatpane/matcha/pull/1227)
+- [`https://github.com/floatpane/matcha/issues/1251`](https://github.com/floatpane/matcha/issues/1251)

@@ -11,3 +11,4 @@ A software engineer focused on backend development.
 - [`https://github.com/floatpane/matcha/pull/712`](https://github.com/floatpane/matcha/pull/712)
 - [`https://github.com/floatpane/matcha/pull/1202`](https://github.com/floatpane/matcha/pull/1202)
 - [`https://github.com/floatpane/matcha/pull/1020`](https://github.com/floatpane/matcha/pull/1020)
+- [`https://github.com/floatpane/matcha/pull/1024`](https://github.com/floatpane/matcha/pull/1024)

@@ -3,5 +3,3 @@
 A software engineer focused on backend development.
 
 ### Building
-
-### Contributing to

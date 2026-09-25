@@ -1,6 +1,6 @@
 ### Hi, I'm Mohamed (aka Haroka)
 
-A software engineer focused on backend development.
+A software engineer with 1 year of experience in the software industry and a solid foundation in computer science fundamentals.
 
 ### Building
 

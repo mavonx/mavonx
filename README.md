@@ -30,3 +30,4 @@ A software engineer with 1 year of experience in the software industry and a sol
 - [`https://github.com/floatpane/matcha/pull/1370`](https://github.com/floatpane/matcha/pull/1370)
 - [`https://github.com/floatpane/matcha/pull/1378`](https://github.com/floatpane/matcha/pull/1378)
 - [`https://github.com/floatpane/matcha/pull/1434`](https://github.com/floatpane/matcha/pull/1434)
+- [`https://github.com/vavallee/bindery/pull/2839`](https://github.com/vavallee/bindery/pull/2839)
